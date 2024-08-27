@@ -35,7 +35,10 @@ Welcome to my GitHub profile! I'm a Data Scientist, with a passion for Computati
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vsntos&layout=compact&theme=radical)
 
-![Activities](https://github-readme-activity-graph.vercel.app/graph?username=vsntos&radius=16&theme=chartreuse-dark&area=true&order=5&hide_title=true&hide_border=false&order=1)
+![Total Commits](https://img.shields.io/badge/Total%20Commits-1234-brightgreen)
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-56-blue)
+![Issues Opened](https://img.shields.io/badge/Issues%20Opened-12-orange)
+
 
 ## 📫 How to Reach Me
 
