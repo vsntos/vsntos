@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm a Data Scientist, with a passion for Computati
 
 ## 💼 Featured Projects
 
-- [🌐 **Network Analysis of Brazilian Congress**](https://github.com/yourusername/project1) - A study of the network structure within Brazilian Congress.
-- [📊 **Shiny Dashboard for Legislative Data**](https://github.com/yourusername/project2) - An interactive dashboard built in Shiny for visualizing legislative data.
-- [🧠 **AI Regulation in Brazil**](https://github.com/yourusername/project3) - Research and notes guiding the debate on AI regulation in Brazil.
+- [🌐 **Network Analysis of Brazilian Congress**](http://vsantos.rbind.io/) - A study of the network structure within Brazilian Congress.
+- [📊 **Shiny Dashboard for Legislative Data**](http://vsantos.rbind.io/) - An interactive dashboard built in Shiny for visualizing legislative data.
+- [🧠 **AI Regulation in Brazil**](http://vsantos.rbind.io/) - Research and notes guiding the debate on AI regulation in Brazil.
 
 ## 🏆 Achievements
 
