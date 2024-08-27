@@ -18,13 +18,14 @@ Welcome to my GitHub profile! I'm a Data Scientist, with a passion for Computati
 ## 💼 Professional Experience
 
 ### 📊 Consultant for Organizations
-- **Instituto Igarapé**  
+
+- **[Instituto Igarapé](https://www.igarape.org.br/)**  
   Consulted on projects related to data science, natural language processing, and network analysis. Provided strategic insights and technical guidance to enhance the organization's research and data-driven initiatives.
 
-- **Rare**  
+- **[Rare](https://www.rare.org/)**  
   Provided consulting services focusing on environmental issues, behavioral science, and data-driven decision-making processes. Supported the development and implementation of strategies to enhance environmental sustainability efforts.
 
-- **GarciAIgnacio**  
+- **[GarciAIgnacio](https://www.garciaignacio.com/)**  
   Acted as a data science consultant, specializing in artificial intelligence and machine learning applications. Worked on projects that involved predictive modeling, data analysis, and the application of AI techniques to solve complex business problems.
 
 ## 💻 Featured Projects
