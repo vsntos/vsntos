@@ -15,7 +15,19 @@ Welcome to my GitHub profile! I'm a Data Scientist, with a passion for Computati
 ![Shiny](https://img.shields.io/badge/Shiny-006BB6?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Gephi](https://img.shields.io/badge/Gephi-7289DA?style=for-the-badge&logo=gephi&logoColor=white)
 
-## 💼 Featured Projects
+## 💼 Professional Experience
+
+### 📊 Consultant for Organizations
+- **Instituto Igarapé**  
+  Consulted on projects related to data science, natural language processing, and network analysis. Provided strategic insights and technical guidance to enhance the organization's research and data-driven initiatives.
+
+- **Rare**  
+  Provided consulting services focusing on environmental issues, behavioral science, and data-driven decision-making processes. Supported the development and implementation of strategies to enhance environmental sustainability efforts.
+
+- **GarciAIgnacio**  
+  Acted as a data science consultant, specializing in artificial intelligence and machine learning applications. Worked on projects that involved predictive modeling, data analysis, and the application of AI techniques to solve complex business problems.
+
+## 💻 Featured Projects
 
 - [🌐 **Network Analysis of Brazilian Congress**](http://vsantos.rbind.io/) - A study of the network structure within Brazilian Congress.
 - [📊 **Shiny Dashboard for Legislative Data**](http://vsantos.rbind.io/) - An interactive dashboard built in Shiny for visualizing legislative data.
