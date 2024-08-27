@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a Data Scientist, with a passion for Computati
 
 ### 📊 Consultant for Organizations
 
-- **[Instituto Igarapé](https://www.igarape.org.br/)**  
+- **[Instituto Igarapé](https://igarape.org.br/)**  
   Consulted on projects related to data science, natural language processing, and network analysis. Provided strategic insights and technical guidance to enhance the organization's research and data-driven initiatives.
 
 - **[Rare](https://www.rare.org/)**  
