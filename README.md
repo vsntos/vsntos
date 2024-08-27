@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a Data Scientist, with a passion for Computati
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vsntos&theme=radical)
 
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=vsntos&theme=radical)
 
 ## 📫 How to Reach Me
 
