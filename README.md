@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Data Scientist, with a passion for Computational Social Sciences, and I love working on Network Analysis.
 
-## 🌟 About Me
+## 🧠 About Me
 
 - 🎓 PhD in Political Science | Federal University of Minas Gerais (UFMG)
 - 🏛️ AI/CTI Parliamentary Advisor at the Federal Senate in Brasília
