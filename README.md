@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a Data Scientist, with a passion for Computati
 ## 🏆 Achievements
 
 - **Researcher at [University of Cambridge](https://www.latin-american.cam.ac.uk/)** -  Visiting researcher at CLAS (Centre of Latin American Studies).
-- **Contributor to [Tree Intelligence](https://treeintelligence.com)** - Worked on mapping political and social networks.
+- **Contributor to [Tree Intelligence](https://treeintelligence.com/)** - Worked on mapping political and social networks.
 - **Published in [Contexto Internacional](https://contextointernacional.iri.puc-rio.br/cgi/cgilua.exe/sys/start.htm?tpl=home)** - Paper on Brazilian Foreign Policy and Political Parties.
 - **Speaker at [ABCP](https://www.abcp2024.sinteseeventos.com.br/trabalho/view?ID_TRABALHO=53)** - Presented on AI and Federal Senate.
 - **Developer to [senatebR](https://github.com/vsntos/senatebR)** - Comprehensive tool designed to access information of the Brazilian Federal Senate.
