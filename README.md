@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Vinicius Santos!
 
-Welcome to my GitHub profile! I'm a Data Scientist, with a passion for Computational Social Sciences. I love working on Network Analysis, and I'm always excited to learn and share knowledge with the community.
+Welcome to my GitHub profile! I'm a Data Scientist, with a passion for Computational Social Sciences, and I love working on Network Analysis.
 
 ## 🌟 About Me
 
