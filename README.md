@@ -31,13 +31,11 @@ Welcome to my GitHub profile! I'm a Data Scientist, with a passion for Computati
 
 ## 📊 GitHub Stats
 
-![Vinicius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vsntos&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vsntos&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vsntos&layout=compact&theme=radical)
+![Vinicius's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vsntos&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=vsntos&theme=radical)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=vsntos&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=vsntos&theme=tokyonight)
 
 ## 📫 How to Reach Me
 
