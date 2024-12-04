@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Data Scientist, with a passion for Computati
 ## 🧠 About Me
 
 - 🎓 PhD in Political Science | Federal University of Minas Gerais (UFMG)
-- 🏛️ AI/CTI Parliamentary Advisor at the Federal Senate in Brasília
+- 🏛️ Former AI/CTI Parliamentary Advisor at the Federal Senate in Brasília
 - 🌍 Researcher in International Relations, Brazilian Foreign Policy, and more
 - 💻 Data Scientist with a focus on Computational Social Sciences and AI
 
