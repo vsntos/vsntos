@@ -1,6 +1,14 @@
-# 👋 Hello, I'm Vinicius Santos!
+<h1 align="center">Hi 👋, I'm Vinicius Santos</h1>
 
-Welcome to my GitHub profile! I'm a Data Scientist, with a passion for Computational Social Sciences, and Network Analysis.
+<p align="center">
+Data Science | AI Governance | Legislative Analytics | Public Policy Modeling
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vsntos&label=Profile%20views&color=0e75b6&style=flat" alt="vsntos" />
+</p>
+
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=vsntos)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🧠 About Me
 
