@@ -37,7 +37,7 @@ Data Science | AI Governance | Legislative Analytics | Public Policy Modeling
   Acted as a data science consultant, specializing in artificial intelligence and machine learning applications. Worked on projects that involved predictive modeling, data analysis, and the application of AI techniques to solve complex business problems.
 
 - 🇬🇧 **[British Council](https://www.britishcouncil.org/)**  
-  Provided consulting on digital inclusion policies, supporting the analysis and design of strategies to expand access to digital technologies and skills.
+  Provided consulting on digital inclusion policies, supporting the analysis and design of strategies to expand access to digital technologies and skills. Combined public policy research and data analysis to map gaps in digital access and inform evidence-based recommendations for more inclusive digital ecosystems.
 
 - 🌳 **[Tree Intelligence](https://treeintelligence.com/)**  
   Worked on mapping political and social networks, applying network analysis to identify key actors, relationships, and patterns of influence. Delivered data-driven insights to support strategic understanding of political and institutional landscapes.
