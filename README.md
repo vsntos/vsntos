@@ -40,7 +40,7 @@ Data Science | AI Governance | Legislative Analytics | Public Policy Modeling
   Provided consulting on digital inclusion policies, supporting the analysis and design of strategies to expand access to digital technologies and skills.
 
 - 🌳 **[Tree Intelligence](https://treeintelligence.com/)**  
-  Worked on mapping political and social networks.
+  Worked on mapping political and social networks, applying network analysis to identify key actors, relationships, and patterns of influence. Delivered data-driven insights to support strategic understanding of political and institutional landscapes.
 
 ## 💻 Featured Projects
 
