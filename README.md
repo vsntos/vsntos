@@ -36,6 +36,9 @@ Data Science | AI Governance | Legislative Analytics | Public Policy Modeling
 - 🤖 **[GarciAIgnacio](https://www.garciaignacio.com/)**  
   Acted as a data science consultant, specializing in artificial intelligence and machine learning applications. Worked on projects that involved predictive modeling, data analysis, and the application of AI techniques to solve complex business problems.
 
+- 🇬🇧 **[British Council](https://www.britishcouncil.org/)**  
+  Provided consulting on digital inclusion policies, supporting the analysis and design of strategies to expand access to digital technologies and skills.
+
 ## 💻 Featured Projects
 
 - [🌐 **Network Analysis of Brazilian Congress**](http://vsantos.rbind.io/) - A study of the network structure within Brazilian Congress.
